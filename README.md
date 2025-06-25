@@ -1,4 +1,4 @@
-# lolli-auth
+# Lolli-Auth 🍭
 Lollipop Athentication library
 
 # under construction 🚧
